@@ -11,3 +11,12 @@ Official Cosmo Engine Launcher
 
 ## Contribuitions:
   [Reqeust a feature or send a bug](https://github.com/CyberKoalaStudios/CyberKoala-Launcher-Releases/issues/new/choose)
+
+
+
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CyberKoalaStudios/CyberKoala-Launcher-Releases&type=Timeline)](https://star-history.com/#CyberKoalaStudios/CyberKoala-Launcher-Releases&Timeline)
